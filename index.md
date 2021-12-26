@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Fraud Detection
 
-Fraud Detection is to analyse any false online transaction that could take place from an individual/company's account.
+Fraud Detection is to analyse any false online transaction that could take place from an account.
 
 ## Header 2
 
